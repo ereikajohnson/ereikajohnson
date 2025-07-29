@@ -1,5 +1,7 @@
 # Hello 👋, I'm Ereika Johnson
-### Intern
+### Computer Science Undergraduate | Aspiring Software Developer
+
+I'm a Computer Science Engineering student with a strong foundation in Python, Flutter, MySQL, MongoDB, HTML, CSS, and JavaScript. I enjoy building practical and user-focused applications, and I'm always eager to learn and collaborate on real-world projects.
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/ereika-johnson-927a34290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/ereika_johnson/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
